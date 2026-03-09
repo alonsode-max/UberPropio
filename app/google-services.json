@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "666155087102",
+    "project_id": "easy-send-db8d8",
+    "storage_bucket": "easy-send-db8d8.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666155087102:android:2e039444eab6ee5a8be1af",
+        "android_client_info": {
+          "package_name": "com.example.easy_send"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666155087102-n9qb2l88a8fgnl6ru6s5k9u7no5k6n3f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.easy_send",
+            "certificate_hash": "9ab25c9ab093408f0e1e7e722db544fa5118fc54"
+          }
+        },
+        {
+          "client_id": "666155087102-2m9ic2cc5jqfgptv409rj6nb0s27b6cu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCBqK_ZJkMtSsXJY67v4htUEdY8u6pXekI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666155087102-2m9ic2cc5jqfgptv409rj6nb0s27b6cu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
